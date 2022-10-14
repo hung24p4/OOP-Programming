@@ -1,2 +1,2 @@
 import cv2
-print ('st12345')
+prignt ('st12345')
