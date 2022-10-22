@@ -1,3 +1,5 @@
+# tim hieu chung
+
 class Vampire:
     def __init__(self, N, G, P):
         self.name = N

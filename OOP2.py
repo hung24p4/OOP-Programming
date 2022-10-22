@@ -1,3 +1,5 @@
+# tim hieu chung + 1
+
 class Vampire:
     R = 1
     def __init__(self, N, G, P):
